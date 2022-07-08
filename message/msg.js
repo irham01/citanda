@@ -970,7 +970,7 @@ module.exports = async(conn, msg, m, setting, store, welcome) => {
 				break
 			default:
 			if (!isGroup && isCmd) {
-				reply(`Command belum tersedia, coba beberapa hari kedepan yaa! _^`)
+				//reply(`Command belum tersedia, coba beberapa hari kedepan yaa! _^`)
 			}
 		}
 	} catch (err) {
