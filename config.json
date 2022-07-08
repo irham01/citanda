@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6285601517617@s.whatsapp.net"],
+  "ownerName": ["IRHAM"],
+  "botName": "Chitanda Eru Bot",
+  "sessionName": "session",
+  "pathimg": "./media/Chitanda.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
